@@ -20,8 +20,8 @@
 
 ###
 
-<h4 align="left">Stuff that I use and deeply interested in them</h4>
-
+<h4 align="left">tools & platforms that I use</h4>
+<h6>(podman included i js didn't find an icon for it, i like podman more than docker)</h6>
 ###
 
 <div align="left">
