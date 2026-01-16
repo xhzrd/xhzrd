@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h2 align="left">xhzrd - xzu</h2>
 
 <p align="left">You always have to start whenever you think about starting.<br>Don't pin it to "I'm not ready yet", because the moment you think you aren't ready is the most ready you'll ever be.</p>
